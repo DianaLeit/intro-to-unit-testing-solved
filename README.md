@@ -1,5 +1,6 @@
 Building Unit Tests with JUnit
 ==============================
+This is a first assignment of **Introduction to Software Testing** Course from University of Minnesota. 
 In this assignment, I got some practice at building effective unit tests. Using the example from course videos, I developed tests for the Demo class, including the isTriangle() and main() methods.
 
 Task was to create a file, DemoTest.java, which properly tests the Demo class to ensure it is working properly. The correct Demo.java file is provided for use.
